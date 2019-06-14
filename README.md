@@ -16,9 +16,9 @@ The idea here is to bring this Dump into wider view, thereby forcing the County 
 
 Some personal TODOs:
 
-  * [] Demarcate Notepad (ugh) Printed Files By Way of PDF Bookmarks
-  * [] OCR Files Into Machine-Readable Format
-  * [] Remove Useless Comments and Other Obfuscation
-  * [] Make Compilable In More Consumer-Friendly Formats
+  * [ ] Demarcate Notepad (ugh) Printed Files By Way of PDF Bookmarks
+  * [ ] OCR Files Into Machine-Readable Format
+  * [ ] Remove Useless Comments and Other Obfuscation
+  * [ ] Make Compilable In More Consumer-Friendly Formats
 
 ...if I have time, of course.
